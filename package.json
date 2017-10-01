@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.1",
     "express-handlebars": "^3.0.0",
+    "giphy-api": "^1.2.7",
     "nodemon": "^1.12.1"
   }
 }
